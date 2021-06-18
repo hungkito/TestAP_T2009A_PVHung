@@ -6,8 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4ac1fb-2774-469f-a5bd-09a61d9fb66e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AP_T2009A_PVHung/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AP_T2009A_PVHung/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AP_T2009A_PVHung.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AP_T2009A_PVHung.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/bin/Debug/Ex2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/bin/Debug/Ex2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/bin/Debug/Ex2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/bin/Debug/Ex2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624001138558</updated>
-      <workItem from="1624001141402" duration="3294000" />
+      <workItem from="1624001141402" duration="3602000" />
     </task>
     <servers />
   </component>
