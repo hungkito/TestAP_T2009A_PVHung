@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\AP_T2009A_PVHung\Ex2\bin\Debug\Ex2.exe
+C:\Users\Admin\RiderProjects\AP_T2009A_PVHung\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Admin\RiderProjects\AP_T2009A_PVHung\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\AP_T2009A_PVHung\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\AP_T2009A_PVHung\Ex2\obj\Debug\Ex2.exe
+C:\Users\Admin\RiderProjects\AP_T2009A_PVHung\Ex2\obj\Debug\Ex2.pdb
